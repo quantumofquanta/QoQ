@@ -1,5 +1,5 @@
 # QoQ
-Space is discrete. It consists of multidimensional quanta (SQ), with its own topology and rules of evolution (SER). The SQs give rise to Matter. Matter, in interaction with Space, gives rise to a multitude of Times. We bypass the ‘dead ends’ of OTO, construct a complete theory of gravity — and, perhaps, finally ‘quantise’ it...
+Space is discrete. It consists of multidimensional quanta (SQ), with its own topology and rules of evolution (SER). The SQs give rise to Matter. Matter, in interaction with Space, gives rise to a multitude of Times. We bypass the GR's ‘dead ends’, construct a complete theory of gravity — and, perhaps, finally ‘quantise’ it...
 
 ## Releases
 See **Releases** for the archived Concept package and checksums.
